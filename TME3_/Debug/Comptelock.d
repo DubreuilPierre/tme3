@@ -1,0 +1,1 @@
+Comptelock.o: ../Comptelock.cpp
